@@ -76,7 +76,3 @@ X.append(1);X.append(1.3);X.append(1.6);X.append(1.9);X.append(2.2)
 F = np.array([[0.7651977,0,0,0,0], [0.6200860,0,0,0,0],[0.4554022,0,0,0,0],[0.2818186,0,0,0,0],[0.1103623,0,0,0,0]]);
 print(F) #table of divided difference 
 Interpolation(X,F);'''
-
-for i in (0,5):
-	print("hello");
-	print("end");
